@@ -1,0 +1,11 @@
+Q1
+nslookup
+set type = mx
+ibm.com
+
+wipro.com
+
+Q2
+host ibm.com
+
+host wipro.com
